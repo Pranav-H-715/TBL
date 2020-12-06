@@ -1,0 +1,75 @@
+.image
+{
+    width: 300;
+    height: 400;
+    border-radius: 10%;
+    margin-right:500px;
+    }
+#welcome
+{
+ height: 600px;   
+    width: 100%;
+    background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    margin-top: 0;
+    text-align: center
+}
+body
+{
+    margin: 0;
+    padding-top:;
+}
+.links
+{
+ font-size: 20;
+    font-family: cursive;
+    color: darkorange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    padding-left: 20px;
+    float: left;
+}
+.menu
+{
+    list-style: none;
+            cursor: pointer;
+    z-index:
+}
+.links:hover
+{
+    background-color: aquamarine;
+};
+.inner
+{
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+}
+iframe
+{
+    text-align: left;
+}
+.line
+{
+    height: 6px;
+    width: 50px;
+    background-color: darkorange;
+    margin: 8px auto;
+}
+#bio
+{
+    text-align: center;
+    background-image: linear-gradient(to right top, #ff3700, #d67500, #a59600, #71ab17, #2cb963);
+ height: 600px;   
+    width: 100%;  
+    font-size: 23
+}
+#Videos
+{
+    margin: auto;
+}
+h1
+{
+    text-align: center;
+}
